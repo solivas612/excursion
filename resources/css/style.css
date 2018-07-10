@@ -1,11 +1,16 @@
+body{
+  background-color: black;
+}
 h1,
 h2,
-p,
-video,
-img {
+p {
   font-family: verdana;
   font-weight: normal;
   text-align: center;
+}
+img,
+video {
+  align-items: center;
   background-color: black;
 }
 h1 {
